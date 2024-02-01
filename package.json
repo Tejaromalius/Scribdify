@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "web-ext": "^7.11.0"
+  },
+  "scripts": {
+    "start": "web-ext run"
+  }
+}
